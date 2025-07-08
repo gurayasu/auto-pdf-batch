@@ -1,0 +1,6 @@
+selenium
+slack_sdk
+PyPDF2
+google-api-python-client
+pytz
+requests
